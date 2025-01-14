@@ -1,0 +1,25 @@
+
+.timerBtn {
+    width: 80px;
+    height:30px;
+    border:3px solid black;
+    border-radius:12px;
+    background-color:#ff51ce;
+    color:rgb(192, 255, 239);
+    cursor:pointer;
+  
+    font-family:'Atomic Age', monospace;
+  }
+  
+  #timeDisplay {
+    font-size:24px;
+    font-family: 'Atomic Age';
+    color:#e369ff;
+  }
+  
+  #timeContainer {
+    text-align: center;
+    border: 3px solid;
+    border-radius:25px;
+    background-color:#8ee8ff
+  }
